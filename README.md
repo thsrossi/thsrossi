@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 🌱 Atualmente estou estudando: Styled-components, Node.js, Tailwind;
 
-Linguagens e ferramentas que utilizo profissionalmente:
+<b>Linguagens e ferramentas que utilizo profissionalmente:</b>
 
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img height="55px" width="auto" src="https://gozattila.dev/static/media/styled_components.a46dc006.png"/>
 
 <img src="mario-coding.gif" width="52%" height="auto"/>
 
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thsrossi&theme=dark)](https://github.com/thsrossi/github-readme-stats)
