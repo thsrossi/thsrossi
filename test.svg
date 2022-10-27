@@ -7,7 +7,7 @@
       overflow: auto;
       padding: 32px;
     };
-    div .row-tecnologias{
+    div div{
     background-color: red;
     }
   </style>
