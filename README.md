@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Matheus Rossi!
 
 <!--
 **thsrossi/thsrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="test.svg"/>
+🌱 Atualmente estou estudando: Styled-components, Node.js;
+
+Linguagens e ferramentas que utilizo profissionalmente:
+
+<img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>
