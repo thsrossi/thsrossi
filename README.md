@@ -1,5 +1,7 @@
 ### Olá, me chamo Matheus Rossi!
 
+[![linkedin badge](https://img.shields.io/badge/Matheus?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheusbrossi/)
+
 <!--
 **thsrossi/thsrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
